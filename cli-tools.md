@@ -1,11 +1,14 @@
 # 🛠️ 命令行工具 / 实用工具
 
-共 **5** 个仓库，按星标时间倒序排列。
+共 **8** 个仓库，按星标时间倒序排列。
 
 | 序号 | 仓库 | 描述 | 星标 | 主要话题 | 星标时间 |
 |------|------|------|------|----------|----------|
-| 1 | [lewislulu/terminal-setup](https://github.com/lewislulu/terminal-setup) | One-script macOS terminal setup: Ghostty + Fish + Starship + Nerd Font + modern CLI tools | ★462 | — | — |
-| 2 | [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) | CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take s | ★8,722 | playwright | — |
-| 3 | [markdown-viewer/markdown-viewer-extension](https://github.com/markdown-viewer/markdown-viewer-extension) | Markdown to perfect Word in one click — Mermaid, Vega, drawio, canvas, Infographic, Graphviz, LaTeX  | ★1,147 | — | — |
-| 4 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams | ★121,301 | canvas, collaboration, diagrams, drawing, hacktoberfest, productivity, whiteboard | — |
-| 5 | [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) | Community plugins list, theme list, and releases of Obsidian. | ★16,767 | obsidian, obsidian-md | — |
+| 1 | [lewislulu/terminal-setup](https://github.com/lewislulu/terminal-setup) | 一脚本 macOS 终端设置：Ghostty + Fish + Starship + Nerd Font + 现代 CLI 工具 | ★462 | — | — |
+| 2 | [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) | 用于常见剧作家操作的 CLI。记录并生成 Playwright 代码、检查选择器并截取屏幕截图。 | ★8,723 | playwright | — |
+| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | “CLI-Anything：使所有软件代理原生”--CLI-Hub：https://clianything.cc/ | ★31,268 | — | — |
+| 4 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | 仓库终于解锁了。享受聚会！历史上最快超过 10 万颗星的仓库 ⭐。加入 Discord：https://discord.gg/5TUQKqFWd 使用 oh-my-codex 内置 Rust。 | ★185,737 | — | — |
+| 5 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 用于 AI 代理的浏览器自动化 CLI | ★29,619 | — | — |
+| 6 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 用于绘制手绘图的虚拟白板 | ★121,302 | canvas, collaboration, diagrams, drawing, hacktoberfest, productivity, whiteboard | — |
+| 7 | [3b1b/manim](https://github.com/3b1b/manim) | 用于解释数学视频的动画引擎 | ★86,094 | 3b1b-videos, animation, explanatory-math-videos, python | — |
+| 8 | [obra/superpowers](https://github.com/obra/superpowers) | 有效的代理技能框架和软件开发方法。 | ★157,851 | — | — |
