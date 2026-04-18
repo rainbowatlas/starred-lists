@@ -4,10 +4,10 @@
 
 | # | Repository | Description | Stars | Topics | Starred At |
 |---|-----------|-------------|-------|--------|------------|
-| 1 | [BuilderPulse/BuilderPulse](https://github.com/BuilderPulse/BuilderPulse) | AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morni | ★883 | ai, builders, indiehackers | — |
+| 1 | [BuilderPulse/BuilderPulse](https://github.com/BuilderPulse/BuilderPulse) | AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morni | ★882 | ai, builders, indiehackers | — |
 | 2 | [zephyrwang6/pm-skills](https://github.com/zephyrwang6/pm-skills) | — | ★396 | — | — |
 | 3 | [qiuzhi2046/Qclaw](https://github.com/qiuzhi2046/Qclaw) | 不用命令行，小白也能轻松玩转 OpenClaw | ★2,390 | — | — |
-| 4 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐.  | ★185,729 | — | — |
+| 4 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐.  | ★185,730 | — | — |
 | 5 | [zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders) | AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into  | ★2,913 | — | — |
 | 6 | [TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center) | Turn OpenClaw from a black box into a local control center you can see, trust, and control. | ★3,816 | — | — |
 | 7 | [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | Free, simple, fast interactive diagrams for any GitHub repository | ★15,446 | ai, code, github, system-design | — |
@@ -28,4 +28,4 @@
 | 22 | [chetachiezikeuzor/MySnippets-Plugin](https://github.com/chetachiezikeuzor/MySnippets-Plugin) | MySnippets is a plugin that adds a status bar menu allowing the user to quickly manage their snippet | ★199 | css, obsidian-md, obsidian-plugin, plugin | — |
 | 23 | [ObsidianToAnki/Obsidian_to_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) | Script to add flashcards from text/markdown files to Anki | ★1,961 | add-flashcards, anki, anki-script, flashcards, obsidian, obsidian-md, obsidian-plugin, python, typescript | — |
 | 24 | [yzh503/obsidian-aicommander-plugin](https://github.com/yzh503/obsidian-aicommander-plugin) | — | ★98 | — | — |
-| 25 | [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | :books: 免费的计算机编程类中文书籍，欢迎投稿 | ★116,623 | android, angular, books, free, ios, javascript, kotlin, pdf, programming, python, react, react-native, swift, vue | — |
+| 25 | [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | :books: 免费的计算机编程类中文书籍，欢迎投稿 | ★116,622 | android, angular, books, free, ios, javascript, kotlin, pdf, programming, python, react, react-native, swift, vue | — |

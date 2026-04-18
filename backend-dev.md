@@ -4,7 +4,7 @@
 
 | # | Repository | Description | Stars | Topics | Starred At |
 |---|-----------|-------------|-------|--------|------------|
-| 1 | [cli/cli](https://github.com/cli/cli) | GitHub’s official command line tool | ★43,886 | cli, git, github-api-v4, golang | — |
+| 1 | [cli/cli](https://github.com/cli/cli) | GitHub’s official command line tool | ★43,885 | cli, git, github-api-v4, golang | — |
 | 2 | [haixiong1997/Bilibili-Obsidian-Clipper](https://github.com/haixiong1997/Bilibili-Obsidian-Clipper) | 在 B 站视频页抓取字幕，预览后可复制 Markdown、下载字幕文件，并一键写入 Obsidian（Local REST API）。 | ★82 | — | — |
 | 3 | [kangarooking/ideahub](https://github.com/kangarooking/ideahub) | IdeaHub - AI 驱动的灵感素材管理平台 \| AI-powered creative material management platform | ★35 | — | — |
 | 4 | [jsmorabito/obsidian-commander](https://github.com/jsmorabito/obsidian-commander) | Commander - Obsidian Plugin \| Add Commands to every part of Obsidian's user interface | ★1,095 | obsidian, obsidian-md, obsidian-plugin | — |
