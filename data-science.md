@@ -1,3 +1,3 @@
-# 📊 Data Science / Analytics
+# 📊 数据科学 / 分析
 
 *暂无仓库*

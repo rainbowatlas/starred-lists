@@ -1,9 +1,9 @@
-# ⚙️ Backend / Development Tools
+# ⚙️ 后端 / 开发工具
 
 共 **6** 个仓库，按星标时间倒序排列。
 
-| # | Repository | Description | Stars | Topics | Starred At |
-|---|-----------|-------------|-------|--------|------------|
+| 序号 | 仓库 | 描述 | 星标 | 主要话题 | 星标时间 |
+|------|------|------|------|----------|----------|
 | 1 | [cli/cli](https://github.com/cli/cli) | GitHub’s official command line tool | ★43,885 | cli, git, github-api-v4, golang | — |
 | 2 | [haixiong1997/Bilibili-Obsidian-Clipper](https://github.com/haixiong1997/Bilibili-Obsidian-Clipper) | 在 B 站视频页抓取字幕，预览后可复制 Markdown、下载字幕文件，并一键写入 Obsidian（Local REST API）。 | ★82 | — | — |
 | 3 | [kangarooking/ideahub](https://github.com/kangarooking/ideahub) | IdeaHub - AI 驱动的灵感素材管理平台 \| AI-powered creative material management platform | ★35 | — | — |
