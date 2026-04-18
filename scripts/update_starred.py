@@ -176,16 +176,30 @@ def gen_readme(classified):
     all_repos.sort(key=lambda x: x["starred_at"] or "", reverse=True)
     lines.append("## 🕐 最近星标 (前 20)")
     lines.append("")
-    lines.append("| 序号 | 仓库 | 描述 | 星标 | 星标时间 |")
-    lines.append("|------|------|------|------|----------|")
+    lines.append("| 序号 | 仓库 | 描述 | 星标 |")
+    lines.append("|------|------|------|------|")
     for i, repo in enumerate(all_repos[:20], 1):
         name = repo["full_name"]
         url = f"https://github.com/{name}"
         desc = repo["description"] if repo["description"] else "暂无描述"
         desc = desc.replace("|", "\\|")[:80]
         stars = f"★{repo['stars']:,}"
-        starred_at = repo["starred_at"][:10] if repo["starred_at"] else "—"
-        lines.append(f"| {i} | [{name}]({url}) | {desc} | {stars} | {starred_at} |")
+        lines.append(f"| {i} | [{name}]({url}) | {desc} | {stars} |")
+    lines.extend(["", "---", ""])
+
+    # Top 20 by stars
+    all_by_stars = sorted(all_repos, key=lambda x: x["stars"], reverse=True)
+    lines.append("## 🔥 最热门星标 (前 20)")
+    lines.append("")
+    lines.append("| 序号 | 仓库 | 描述 | 星标 |")
+    lines.append("|------|------|------|------|")
+    for i, repo in enumerate(all_by_stars[:20], 1):
+        name = repo["full_name"]
+        url = f"https://github.com/{name}"
+        desc = repo["description"] if repo["description"] else "暂无描述"
+        desc = desc.replace("|", "\\|")[:80]
+        stars = f"★{repo['stars']:,}"
+        lines.append(f"| {i} | [{name}]({url}) | {desc} | {stars} |")
     lines.extend(["", "---", "", "## 🔄 自动更新", "", "本仓库通过定时任务自动同步星标仓库。", "", "### 手动更新", "", "```bash", "cd ~/starred-lists && python3 scripts/update_starred.py", "```", ""])
     return "\n".join(lines)
 
