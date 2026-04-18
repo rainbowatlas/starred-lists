@@ -32,8 +32,8 @@
 | 2 | [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill) | 把一本书蒸馏成一组可执行的 Agent Skills | ★110 | — |
 | 3 | [irenerachel/ebook-maker-skill](https://github.com/irenerachel/ebook-maker-skill) | AI 电子书制作工作流 — Claude Code Skill | ★16 | — |
 | 4 | [TianyiDataScience/humanize](https://github.com/TianyiDataScience/humanize) | — | ★39 | — |
-| 5 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files inspired by popular brand design systems. Drop o | ★58,232 | — |
-| 6 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar | ★54,817 | — |
+| 5 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files inspired by popular brand design systems. Drop o | ★58,233 | — |
+| 6 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar | ★54,820 | — |
 | 7 | [jackwener/wechat-article-to-markdown](https://github.com/jackwener/wechat-article-to-markdown) | 微信公众号文章抓取 & Markdown 转换工具 | ★533 | — |
 | 8 | [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, | ★74,973 | — |
 | 9 | [sdyckjq-lab/llm-wiki-skill](https://github.com/sdyckjq-lab/llm-wiki-skill) | 基于 Karpathy llm-wiki 方法论的个人知识库构建 Skill，支持多平台！ | ★821 | — |
