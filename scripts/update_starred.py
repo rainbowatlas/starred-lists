@@ -284,8 +284,7 @@ def gen_readme(classified):
 
 
 def main():
-    repo_dir = sys.argv[1] if len(sys.argv) > 1 else os.path.dirname(os.path.abspath(__file__))
-    repo_dir = os.path.normpath(os.path.join(repo_dir, ".."))  # scripts/ -> repo root
+    repo_dir = sys.argv[1] if len(sys.argv) > 1 else os.path.expanduser("~/starred-lists")
     
     print(f"Fetching starred repos...")
     repos = fetch_starred()
